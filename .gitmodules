@@ -4,3 +4,6 @@
 [submodule "ApiGateway"]
 	path = ApiGateway
 	url = https://github.com/mikkoryynanen/ApiGateway
+[submodule "IdentityServer"]
+	path = IdentityServer
+	url = https://github.com/mikkoryynanen/IdentityServer
