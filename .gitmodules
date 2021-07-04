@@ -1,0 +1,6 @@
+[submodule "WeatherApi"]
+	path = WeatherApi
+	url = https://github.com/mikkoryynanen/WeatherApi.git
+[submodule "ApiGateway"]
+	path = ApiGateway
+	url = https://github.com/mikkoryynanen/ApiGateway
